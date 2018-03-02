@@ -13,8 +13,8 @@
 
 ## RetroPie-Setup components:
 
-6. EmulationStation: https://github.com/retr0rangepi/EmulationStation - retropie fork with ROPi flavor
-7. RetroPie-Setup: https://github.com/retr0rangepi/RetroPie-Setup - ROPi unofficial fork for H3 Mali devices
+6. EmulationStation: https://github.com/RetroJamo/EmulationStation - retropie fork with ROPi flavor
+7. RetroPie-Setup: https://github.com/RetroJamo/RetroPie-Setup - ROPi unofficial fork for H3 Mali devices
 
 ### Libretro cores
 
